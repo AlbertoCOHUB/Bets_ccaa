@@ -1,5 +1,5 @@
 getwd() # saber directorio de trabajo 
-setwd("C:/Users/alber/alber/Documents/BETTING") # ojo con la ruta / o \\
+setwd("C:/Users/alber/alber/Documents/Bets_ccaa") # ojo con la ruta / o \\
 
 #dia 2 manejo_datos con funciones
 library(tidyverse)
